@@ -1,1 +1,15 @@
-uyfuyfuy
+1)
+Git est un système de gestion de versions distribué qui permet de suivre l'évolution des fichiers d'un projet, principalement utilisé pour le développement logiciel. Il permet de collaborer de sauvegarder différente versions et de revenir à des état antérieurs du code en cas de besoin
+2)
+Un repository est un espace où sont stockés tous les fichier d’un projet ainsi que leur historique de modifications suivi par git
+3)
+Un commit est un enregistrement des modifications effectuées sur les fichiers d’un repository. Chaque commit a un message pour expliquer les changements
+Un push envoie les commits du repository local vers le repository distant
+Un push envoie les commits du repository local vers le repository distant
+4)
+Le fichier README.md est un fichier en markdown qui sert de documentation principale pour un projet
+5)
+Copier l’URL du repository GitHub (ex: https://github.com/user/projet.git)
+Ouvrir le cmd
+utilisez la commande suivante
+git clone https://github.com/user/projet.git
